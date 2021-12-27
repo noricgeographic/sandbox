@@ -6,8 +6,8 @@ import { StyledComponents } from "./components/StyledComponents";
 import { Emotion } from "./components/Emotion";
 
 
-// ReactDom.render(<App />, document.getElementById("root"));
+ReactDom.render(<App />, document.getElementById("root"));
 // ReactDom.render(<CssModules />, document.getElementById("root"));
 // ReactDom.render(<StyledJsx />, document.getElementById("root"));
 // ReactDom.render(<StyledComponents />, document.getElementById("root"));
-ReactDom.render(<Emotion />, document.getElementById("root"));
+// ReactDom.render(<Emotion />, document.getElementById("root"));
