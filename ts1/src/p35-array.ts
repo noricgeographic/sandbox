@@ -7,8 +7,9 @@ console.log(arrayB);
 console.log(arrayC);
 
 let tuppleA: [string, string, number] = ["液晶ビエラ", "Sony", 120000];
-let tuppleB = ["液晶ビエラ", "Sony", 120000];
 let tuppleC: [string, number, boolean] = ["液晶ビエラ", 120000, false];
+let tuppleB = ["液晶ビエラ", "Sony", 120000];
+
 console.log(tuppleA);
 console.log(tuppleB);
 console.log(tuppleC);
